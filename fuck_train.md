@@ -1,0 +1,1 @@
+python train.py -g 0 -pretrained C:\Users\wujiang\Desktop\pytorch-YOLOv4-master\yolov4.conv.137.pth -dir C:\Users\wujiang\Desktop\pytorch-YOLOv4-master\VOCdevkit\VOC2007\JPEGImages -classes 5 -train_label_path C:\Users\wujiang\Desktop\pytorch-YOLOv4-master\data\2007_trainval.txt
